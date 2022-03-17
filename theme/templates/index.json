@@ -1,0 +1,639 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "Shop this",
+            "link_2": "shopify:\/\/collections\/all",
+            "link_text_2": "Shop all",
+            "color_accent": "#000000",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/1645380899708.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        },
+        "slideshow-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "Shop all",
+            "link_2": "shopify:\/\/collections\/all",
+            "link_text_2": "Shop all",
+            "color_accent": "#000000",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/1644105848051.png",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        },
+        "4dfe0b1c-6aee-4ab4-8c6e-f44d5c775414": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/1645380775088.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "slideshow-1",
+        "4dfe0b1c-6aee-4ab4-8c6e-f44d5c775414"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "164693391536524978": {
+      "type": "logo-list",
+      "blocks": {
+        "164693391553f2c5f8-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-01.png",
+            "link": ""
+          }
+        },
+        "164693391553f2c5f8-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-02.png",
+            "link": ""
+          }
+        },
+        "164693391553f2c5f8-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-07.png",
+            "link": ""
+          }
+        },
+        "164693391553f2c5f8-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-04.png",
+            "link": ""
+          }
+        },
+        "768de117-379d-47aa-b5a1-eb5d1dc6451a": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cosmo.png",
+            "link": ""
+          }
+        },
+        "96d33c2b-a7d1-482f-899d-b9799654256f": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164693391553f2c5f8-0",
+        "164693391553f2c5f8-1",
+        "164693391553f2c5f8-2",
+        "164693391553f2c5f8-3",
+        "768de117-379d-47aa-b5a1-eb5d1dc6451a",
+        "96d33c2b-a7d1-482f-899d-b9799654256f"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 50,
+        "divider": true
+      }
+    },
+    "16469337548e6f79e4": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/7BTExDk96rg",
+        "divider": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "The Best Products on Earth for the Driest Hair"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We give<strong>4C hair<\/strong>,<strong>extremely dry hair<\/strong>and<strong>slow growing hair<\/strong> all the moisture & nutrients it needs to flourish & grow. Select a<a href=\"https:\/\/www.qhemetbiologics.com\/african-hair-care-collections-s\/52.htm\" target=\"_blank\">Moisture Collection<\/a>below to start your journey today!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promo-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 800,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "promo-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo-0",
+        "promo-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "moisture-collections",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "nourish-grow",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "qb-minis",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "cleanse-condition",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-3"
+      ],
+      "settings": {
+        "title": "Shop by category",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "1646934634d42a5e21": {
+      "type": "text-columns",
+      "blocks": {
+        "164693463345206a8b-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/932631_FreeQBminibanner02_010421.jpg",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "164693463345206a8b-0": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "164693463345206a8b-2": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164693463345206a8b-1",
+        "164693463345206a8b-0",
+        "164693463345206a8b-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1646934738003712fb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "home_featured_products": "nourish-grow",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promo2-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "100",
+            "height": 720,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "promo2-1": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "promo2-2": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "boxed": false,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "promo2-0",
+        "promo2-1",
+        "promo2-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "From the journal",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "map_title": "Our retail store",
+        "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    },
+    "1646934846d4c6d72d": {
+      "type": "testimonials",
+      "blocks": {
+        "164693484602b2b805-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164693484602b2b805-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164693484602b2b805-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164693484602b2b805-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164693484602b2b805-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "164693484602b2b805-0",
+        "164693484602b2b805-1",
+        "164693484602b2b805-2",
+        "164693484602b2b805-3",
+        "164693484602b2b805-4"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "164745622997158618": {
+      "type": "featured-product",
+      "blocks": {
+        "16474562292dc42c60-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "16474562292dc42c60-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "16474562292dc42c60-2": {
+          "type": "variant_picker",
+          "settings": {
+            "size_chart": "",
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16474562292dc42c60-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "16474562292dc42c60-0",
+        "16474562292dc42c60-1",
+        "16474562292dc42c60-2",
+        "16474562292dc42c60-3"
+      ],
+      "settings": {
+        "featured_product": "l-o-c-method-collection-for-high-porosity-hair",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1647456435f2092c73": {
+      "type": "featured-video",
+      "settings": {
+        "title": "STYLING VIDEOS",
+        "video_url": "https:\/\/youtu.be\/2Y6tuVSu6Mo",
+        "divider": false
+      }
+    },
+    "164745644248cf3ecb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_Copy_of_Copy_of_Untitled.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "STORE LOCATIONS",
+        "text": "<p>Browse a map or view a list of authorized locations that carry Qhemet Biologics.<\/p>",
+        "button_label": "Find a location",
+        "button_link": "",
+        "button_style": "secondary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "164745764104500c5b": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "VISIT OUR PHOTO GALLERY!",
+        "text": "<p>See more photos from celebrity stylists, celebrities and beauty experts!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Find_out_why_celebrity_stylist_trust_Qhemet_to_style_the_hair_of_cel.png",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 550,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "164745689303763a0c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Moisturized_styled_twist-out_using_our_Moringa_Tree_Conditioning_Ghee_and_Aethiopika_Hydrate_Twist_Butter._4.png",
+        "image2": "shopify:\/\/shop_images\/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled_1.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "BEFORE & AFTER PHOTOS!",
+        "text": "<p><a href=\"http:\/\/dummy\/\">Natural hair is beautiful and even moreso when you're using high quality, ancestral ingredients to care for it. Check out our healthy hair blog today to learn how Qhemet can help<\/a> you manage, nourish and moisturize your hair for maximum health and growth! <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "164693391536524978",
+    "16469337548e6f79e4",
+    "rich-text",
+    "promo-grid",
+    "featured-collections",
+    "1646934634d42a5e21",
+    "1646934738003712fb",
+    "promo-grid2",
+    "featured-collection",
+    "blog-posts",
+    "map",
+    "1646934846d4c6d72d",
+    "164745622997158618",
+    "1647456435f2092c73",
+    "164745644248cf3ecb",
+    "164745764104500c5b",
+    "164745689303763a0c"
+  ]
+}
